@@ -6,8 +6,7 @@ A modern and interactive weather dashboard built using **Python** that provides 
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-STREAMLIT-LINK.streamlit.app  
-(Replace this with your deployed link)
+https://weather-app-nlisr3bzusuh7zgfy3y8uo.streamlit.app/
 
 ---
 
