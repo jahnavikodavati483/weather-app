@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-# ✅ API KEY FROM STREAMLIT SECRETS
 API_KEY = st.secrets["API_KEY"]
 
 st.set_page_config(page_title="WeatherApp", layout="wide")
@@ -199,3 +198,4 @@ if city:
             </div>
             """, unsafe_allow_html=True)
         i += 1
+
