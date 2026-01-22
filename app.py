@@ -2,7 +2,8 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-API_KEY = "b046f40ea21419b173fd5a794f455ed4"
+# ✅ API KEY FROM STREAMLIT SECRETS
+API_KEY = st.secrets["API_KEY"]
 
 st.set_page_config(page_title="WeatherApp", layout="wide")
 
