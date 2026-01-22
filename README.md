@@ -23,5 +23,3 @@ https://weather-app-nlisr3bzusuh7zgfy3y8uo.streamlit.app/
 - HTML & CSS (for UI styling)
 - Streamlit Cloud (Deployment)
 
-## 📂 Project Structure
-
