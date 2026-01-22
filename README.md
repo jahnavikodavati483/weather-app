@@ -1,25 +1,34 @@
-🌦️ Weather App
+# 🌦️ Weather Dashboard App using Streamlit
 
-A modern, interactive Weather Dashboard built using **Python and Streamlit** that shows real-time weather, hourly forecast, and 4-day forecast with beautiful animated icons and glassmorphism UI.
+A modern and interactive weather dashboard built using **Python and Streamlit** that provides real-time weather updates, hourly forecasts, and multi-day forecasts with animated icons and a glassmorphism UI.
 
+---
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-https://weather-app-nlisr3bzusuh7zgfy3y8uo.streamlit.app/
+👉 https://YOUR-STREAMLIT-LINK.streamlit.app  
+(Replace this with your deployed link)
 
- ✨ Features
+---
 
-- 🔍 City search with auto-suggestions
-- 🌤️ Real-time weather information
-- ⏰ Hourly forecast.
-- 📅 4-day weather forecast
+## ✨ Features
+
+- 🔍 Search city with auto-suggestions
+- 🌤️ Real-time temperature and weather conditions
+- ⏰ Hourly forecast 
+- 📅 4-day weather forecast.
 - ☁️ Deployed on Streamlit Cloud
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - Python
 - Streamlit
 - OpenWeatherMap API
-- HTML & CSS (for UI styling)
-- Streamlit Cloud (Deployment)
+- HTML & CSS for UI Styling
+
+---
+
+## 📂 Project Structure
 
