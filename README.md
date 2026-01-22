@@ -1,6 +1,6 @@
-# 🌦️ Weather Dashboard App using Streamlit
+# 🌦️ Weather Forecast Application
 
-A modern and interactive weather dashboard built using **Python and Streamlit** that provides real-time weather updates, hourly forecasts, and multi-day forecasts with animated icons and a glassmorphism UI.
+A modern and interactive weather dashboard built using **Python** that provides real-time weather updates, hourly forecasts.
 
 ---
 
